@@ -11,6 +11,8 @@ Use git clone to clone the repo
 Install the pip packages in requirements.txt
 
 ## Dataset Preparation
+Ensure that FASTA files are in the data folder, separating the families into different folders
+<br>
 Run organize_dataset.py in order to prepare the dataset
 <br>
 Run question1.py to see visualizations for Question 1
